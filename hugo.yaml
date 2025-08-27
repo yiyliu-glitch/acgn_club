@@ -61,3 +61,7 @@ menu:
     - name: Recruit
       url: /member/
       weight: 25
+    
+caches:
+  images:
+    dir: :cacheDir/images
