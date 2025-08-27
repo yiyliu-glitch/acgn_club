@@ -1,0 +1,63 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: ACGN Club
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+mainsections: ["posts", "papermod"]
+
+minify:
+  disableXML: true
+
+pagination:
+  disableAliases: false
+  pagerSize: 5
+
+params:
+  languageAltTitle: English
+  profileMode:
+    enabled: true
+    title: ACGN Club
+    subtitle: Welcome to ACGN Club at UW! You can find our [**Newest Event!!**](Event/testing/) here.
+    imageTitle: ACGN 
+    imageUrl: MainPhoto.jpg
+    # imageWidth: 120
+    # imageHeight: 120
+    buttons:
+      - name: New Event
+        url: posts
+      - name: Past Event
+        url: /archives/
+      - name: About Us
+        url: /about/
+  socialIcons: 
+  - name: "wechat"
+    url: /join/
+  - name: "instagram"
+    url: https://www.instagram.com/acgn_club_at_uw/
+  - name: "discord"
+    url: https://discord.gg/BJhqjNuHSC
+
+menu:
+  main:
+    - name: Event
+      url: Event
+      weight: 5
+    - name: Past Event
+      url: /archives/
+      weight: 10
+    - name: About
+      url: /about/
+      weight: 15
+    - name: Join Us
+      url: /join/
+      weight: 20
+    - name: Recruit
+      url: /member/
+      weight: 25
