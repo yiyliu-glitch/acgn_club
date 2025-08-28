@@ -31,7 +31,7 @@ params:
     # imageHeight: 120
     buttons:
       - name: New Event
-        url: /Event/
+        url: /event/
       - name: Past Event
         url: /archives/
       - name: About Us
@@ -47,7 +47,7 @@ params:
 menu:
   main:
     - name: Event
-      url: Event
+      url: /event/
       weight: 5
     - name: Past Event
       url: /archives/
