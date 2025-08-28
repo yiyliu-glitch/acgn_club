@@ -31,7 +31,7 @@ params:
     # imageHeight: 120
     buttons:
       - name: New Event
-        url: posts
+        url: /Event/
       - name: Past Event
         url: /archives/
       - name: About Us
