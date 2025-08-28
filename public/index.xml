@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ACGN Club</title>
-    <link>https://yiyliu-glitch.github.io/acgn_club/</link>
+    <link>https://www.acgn-uw.org/</link>
     <description>Recent content on ACGN Club</description>
     <generator>Hugo -- 0.148.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://yiyliu-glitch.github.io/acgn_club/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.acgn-uw.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>testing</title>
-      <link>https://yiyliu-glitch.github.io/acgn_club/event/testing/</link>
+      <link>https://www.acgn-uw.org/event/testing/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://yiyliu-glitch.github.io/acgn_club/event/testing/</guid>
+      <guid>https://www.acgn-uw.org/event/testing/</guid>
       <description>testing</description>
     </item>
     <item>
       <title>About Us</title>
-      <link>https://yiyliu-glitch.github.io/acgn_club/about/</link>
+      <link>https://www.acgn-uw.org/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yiyliu-glitch.github.io/acgn_club/about/</guid>
+      <guid>https://www.acgn-uw.org/about/</guid>
       <description>&lt;p&gt;sadsadasdsadsadasds&lt;/p&gt;</description>
     </item>
     <item>
       <title>Be A Part Of Us</title>
-      <link>https://yiyliu-glitch.github.io/acgn_club/member/</link>
+      <link>https://www.acgn-uw.org/member/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yiyliu-glitch.github.io/acgn_club/member/</guid>
+      <guid>https://www.acgn-uw.org/member/</guid>
       <description>&lt;h2 id=&#34;acuw-management-team-recruitment&#34;&gt;ACUW Management Team Recruitment!&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;ACUW&lt;/strong&gt; (ACGN at UW) is a brand-new, unique anime and gaming community at the University of Washington. We&amp;rsquo;re dedicated to providing a platform for ACGN lovers to connect and share their interests across cultures.&lt;/p&gt;
 &lt;p&gt;We&amp;rsquo;re currently looking for new members to join our core management team. If you want to:&lt;/p&gt;
@@ -42,9 +42,9 @@
     </item>
     <item>
       <title>Join Us</title>
-      <link>https://yiyliu-glitch.github.io/acgn_club/join/</link>
+      <link>https://www.acgn-uw.org/join/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yiyliu-glitch.github.io/acgn_club/join/</guid>
+      <guid>https://www.acgn-uw.org/join/</guid>
       <description>&lt;p&gt;Scan The QR Code above to join us now!&lt;/p&gt;</description>
     </item>
   </channel>
