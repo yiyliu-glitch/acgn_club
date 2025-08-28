@@ -24,7 +24,7 @@ params:
   profileMode:
     enabled: true
     title: ACGN Club
-    subtitle: Welcome to ACGN Club at UW! You can find our [**Newest Event!!**](Event/testing/) here.
+    subtitle: Welcome to ACGN Club at UW! You can find our [**Newest Event!!**](event/testing/) here.
     imageTitle: ACGN 
     imageUrl: MainPhoto.jpg
     # imageWidth: 120
