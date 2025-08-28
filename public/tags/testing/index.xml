@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Testing on ACGN Club</title>
-    <link>https://example.org/tags/testing/</link>
+    <link>http://acgn-uw.org/tags/testing/</link>
     <description>Recent content in Testing on ACGN Club</description>
     <generator>Hugo -- 0.148.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/testing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://acgn-uw.org/tags/testing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>testing</title>
-      <link>https://example.org/event/testing/</link>
+      <link>http://acgn-uw.org/event/testing/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.org/event/testing/</guid>
+      <guid>http://acgn-uw.org/event/testing/</guid>
       <description>testing</description>
     </item>
   </channel>
