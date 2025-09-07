@@ -2,33 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.acgn-uw.org/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.acgn-uw.org/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.acgn-uw.org/event/</loc>
+    <loc>http://localhost:1313/event/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.acgn-uw.org/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.acgn-uw.org/event/testing/</loc>
+    <loc>http://localhost:1313/event/testing/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.acgn-uw.org/tags/testing/</loc>
+    <loc>http://localhost:1313/tags/testing/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.acgn-uw.org/categories/themes/</loc>
+    <loc>http://localhost:1313/categories/themes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.acgn-uw.org/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://www.acgn-uw.org/member/</loc>
+    <loc>http://localhost:1313/member/</loc>
   </url><url>
-    <loc>https://www.acgn-uw.org/join/</loc>
+    <loc>http://localhost:1313/join/</loc>
   </url><url>
-    <loc>https://www.acgn-uw.org/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
   </url>
 </urlset>

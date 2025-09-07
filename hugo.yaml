@@ -20,11 +20,13 @@ pagination:
   pagerSize: 5
 
 params:
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
   languageAltTitle: English
   profileMode:
     enabled: true
     title: ACGN Club
-    subtitle: Welcome to ACGN Club at UW! You can find our [**Newest Event!!**](event/testing/) here.
+    subtitle: Welcome to ACGN Club at UW! You can find our [**Newest Event!!**](/event/) here.
     imageTitle: ACGN 
     imageUrl: MainPhoto.jpg
     # imageWidth: 120
