@@ -26,7 +26,7 @@ params:
   profileMode:
     enabled: true
     title: ACGN Club
-    subtitle: Welcome to ACGN Club at UW! You can find our [**Newest Event!!**](/event/) here.
+    subtitle: Welcome to ACGN Club at UW! You can find our [**Newest Event!!**](/uwCon/) here.
     imageTitle: ACGN 
     imageUrl: MainPhoto.jpg
     # imageWidth: 120
@@ -38,6 +38,8 @@ params:
         url: /archives/
       - name: About Us
         url: /about/
+      - name: New!!
+        url: /uwCon/
   socialIcons: 
   - name: "wechat"
     url: /join/
